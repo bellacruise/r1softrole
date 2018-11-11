@@ -1,0 +1,3 @@
+---
+# vars file for r1soft
+r1softserver: "http://204.48.26.118:8080"
